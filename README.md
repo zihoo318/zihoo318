@@ -3,7 +3,7 @@
 
 <div align="center">
   
-## 👩‍💻 Tech Skills
+### 👩‍💻 Tech Skills
 
 ### 🧩 Backend
 ![Java](https://img.shields.io/badge/JAVA-E34F26?style=for-the-badge&logo=openjdk&logoColor=white)
