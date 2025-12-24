@@ -1,9 +1,8 @@
 <!-- Header (sky gray / thin) -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F1F5F9,100:E2E8F0&height=95&section=header&text=Jihoo's%20GitHub&fontSize=40&fontColor=0F172A&animation=fadeIn" />
 
-<div align="center">
-  
-### 👩‍💻 Tech Skills
+ 
+## 👩‍💻 Tech Skills
 
 ### 🧩 Backend
 ![Java](https://img.shields.io/badge/JAVA-E34F26?style=for-the-badge&logo=openjdk&logoColor=white)
