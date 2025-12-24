@@ -1,7 +1,7 @@
 <!-- Header (sky gray / thin) -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F1F5F9,100:E2E8F0&height=95&section=header&text=Jihoo's%20GitHub&fontSize=40&fontColor=0F172A&animation=fadeIn" />
 
-
+<div align="center">
 ## 👩‍💻 Tech Skills
 
 ### 🧩 Backend
@@ -26,7 +26,7 @@
 ### ✏️ Tools
 ![IntelliJ IDEA](https://img.shields.io/badge/INTELLIJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
+</div>
 <br/>
 
 ## 👩🏻‍💻 I'm currently working on
@@ -34,8 +34,7 @@
 <div align="center">
   <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zihoo318&show_icons=true&hide_title=true&rank_icon=github&bg_color=F1F5F9&title_color=0F172A&text_color=334155&icon_color=64748B&border_color=E2E8F0&hide_border=false&cache_seconds=7200" />
   <br/>
-  <img height="170"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=zihoo318&background=F1F5F9&border=E2E8F0" />
+  <img height="170" src="https://streak-stats.demolab.com?user=zihoo318"/>
 </div>
 
 
