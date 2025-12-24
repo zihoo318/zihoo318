@@ -35,7 +35,7 @@
   <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zihoo318&show_icons=true&hide_title=true&rank_icon=github&bg_color=F1F5F9&title_color=0F172A&text_color=334155&icon_color=64748B&border_color=E2E8F0&hide_border=false&cache_seconds=7200" />
   <br/>
   <img height="170"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=zihoo318&background=F1F5F9&border=E2E8F0&stroke=E2E8F0&ring=64748B&fire=64748B&currStreakNum=0F172A&sideNums=0F172A&currStreakLabel=334155&sideLabels=334155&dates=64748B" />
+  src="https://github-readme-streak-stats.herokuapp.com/?user=zihoo318&background=F1F5F9&border=E2E8F0" />
 </div>
 
 
