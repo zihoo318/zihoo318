@@ -11,11 +11,11 @@
 ![Oracle](https://img.shields.io/badge/ORACLE%20DB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### ☁️ DevOps & Cloud
-![OpenStack](https://img.shields.io/badge/OPENSTACK-ED1944?style=for-the-badge&logo=openstack&logoColor=white)
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 ![AWS RDS](https://img.shields.io/badge/AWS%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
+![OpenStack](https://img.shields.io/badge/OPENSTACK-ED1944?style=for-the-badge&logo=openstack&logoColor=white)
 
 ### 📱 Mobile
 ![Kotlin](https://img.shields.io/badge/KOTLIN-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
